@@ -1,0 +1,31 @@
+C:\Users\Rocha\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Rocha\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Rocha\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.frmCalc.resources
+C:\Users\Rocha\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Rocha\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Rocha\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Rocha\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+F:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+F:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+F:\DS1\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\DS1\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.frmCalc.resources
+F:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+F:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+F:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\DS1\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\DS1\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.frmCalc.resources
+D:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+G:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+G:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+G:\DS1\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\DS1\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.frmCalc.resources
+G:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+G:\DS1\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
