@@ -1,0 +1,20 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\obj\x86\Debug\Teste1.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\obj\x86\Debug\Teste1.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\bin\Debug\Teste1.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\bin\Debug\Teste1.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\obj\x86\Debug\Teste1.FormTeste1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\obj\x86\Debug\Teste1.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Teste1\obj\x86\Debug\Teste1.pdb
+F:\DS1\Teste1\Teste1\obj\x86\Debug\Teste1.exe
+F:\DS1\Teste1\Teste1\obj\x86\Debug\Teste1.pdb
+F:\DS1\Teste1\Teste1\bin\Debug\Teste1.exe
+F:\DS1\Teste1\Teste1\bin\Debug\Teste1.pdb
+F:\DS1\Teste1\Teste1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DS1\Teste1\Teste1\obj\x86\Debug\Teste1.Form1.resources
+F:\DS1\Teste1\Teste1\obj\x86\Debug\Teste1.FormTeste1.resources
+F:\DS1\Teste1\Teste1\obj\x86\Debug\Teste1.Properties.Resources.resources
+F:\DS1\Teste1\Teste1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DS1\Teste1\Teste1\obj\x86\Debug\GenerateResource.write.1.tlog
